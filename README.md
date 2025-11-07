@@ -4,7 +4,7 @@
 
 <h1 align="center">### Hi there 👋 , I am Harshit Varshney!!</h1>
 
-**H A R S H I T   V A R S H N E Y** ✨  
+                                                                                      **H A R S H I T   V A R S H N E Y** ✨  
 B.Tech CSE Student | Aspiring Ethical Hacker | Video & Photo Editor | Web Developer  
 
 [![LinkedIn: harshitvarshney1](https://img.shields.io/badge/-harshitvarshney1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshitvarshney1/)](https://www.linkedin.com/in/harshitvarshney1/)  
