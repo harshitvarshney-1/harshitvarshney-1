@@ -59,7 +59,7 @@ B.Tech CSE Student | Aspiring Ethical Hacker | Video & Photo Editor | Web Develo
 
 <h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Varshneyhars">
+<a href="https://github.com/harshitvarshney-1">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Varshneyhars&theme=nightowl&hide_border=true&fire=DD2727" height="180em" alt="HarshitVarshney GitHub Streak Stats" />
 <br/>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Varshneyhars&theme=2077" height="180em" alt="HarshitVarshney GitHub Summary Stats" />
