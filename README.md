@@ -1,6 +1,3 @@
-<p id="top" align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
-</p>
 
 <h1 align="center">Hii,I am Harshit Varshney</h1>
 
